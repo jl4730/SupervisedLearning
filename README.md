@@ -9,3 +9,5 @@ Contains linear regression using sklearn module
 ### 3 PolynomialRegression.py
 Contains polynomial regression using sklearn module
 
+### 4 lassoregularization.py
+Contains lasso regression using sklearn module
