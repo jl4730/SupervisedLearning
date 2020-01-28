@@ -1,2 +1,4 @@
 # SupervisedLearning
-Summary of what I learned from Udacity Data Science Nanodegree Supervised Learning Section
+
+### 1 batch_graddesc
+Contains Mini-Batch Gradient Descent
