@@ -70,7 +70,7 @@ def miniBatchGD(X, y, batch_size = 20, learn_rate = 0.005, num_iter = 25):
 
 if __name__ == "__main__":
     # perform gradient descent
-    data = np.loadtxt('data.csv', delimiter = ',')
+    data = np.loadtxt('data_batch_graddesc.csv', delimiter = ',')
     X = data[:,:-1]
     y = data[:,-1]
     regression_coef = miniBatchGD(X, y)
