@@ -13,7 +13,7 @@ Contains polynomial regression using sklearn module
 ### 1.4 lassoregularization.py
 Contains lasso regression using sklearn module
 
-
+<br />
 ## 2 Classification
 ### 2.1 perceptron.py
 Implement the perceptron algorithm to separate the 1s and 0s
