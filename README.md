@@ -26,7 +26,7 @@ Implement decision tree algorithm on titanic dataset
 ### 2.4 Bayesian_Inference.ipynb
 Implement bayesian inference algorithm on spam identification
 
-### 2.5 SVM.ipynb
+### 2.5 SVM.py
 Contains SVM algorithm using sklearn module
 
 
