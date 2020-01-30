@@ -23,5 +23,7 @@ Implement decision tree algorithm
 ### 2.3 titanic_survival_exploration
 Implement decision tree algorithm on titanic dataset
 
+### 2.4 Bayesian_Inference.ipynb
+Implement bayesian inference algorithm on spam identification
 
 
