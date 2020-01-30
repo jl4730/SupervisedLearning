@@ -20,5 +20,8 @@ Implement the perceptron algorithm to separate the 1s and 0s
 ### 2.2 DecisionTreeClassifier
 Implement decision tree algorithm
 
+### 2.3 titanic_survival_exploration
+Implement decision tree algorithm on titanic dataset
+
 
 
