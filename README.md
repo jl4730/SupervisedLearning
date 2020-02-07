@@ -29,4 +29,7 @@ Implement bayesian inference algorithm on spam identification
 ### 2.5 SVM.py
 Contains SVM algorithm using sklearn module
 
+### 2.6 Spam_&_Ensembles.ipynb
+Implement ensemble method on spam identification
+
 
