@@ -32,4 +32,8 @@ Contains SVM algorithm using sklearn module
 ### 2.6 Spam_&_Ensembles.ipynb
 Implement ensemble method on spam identification
 
+### 2.7 Learning_Curve.py
+Using learning curves to determine if a model is overfitting or underfitting
+
+
 
