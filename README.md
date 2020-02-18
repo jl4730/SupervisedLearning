@@ -1,5 +1,7 @@
 # SupervisedLearning
 
+Writeup can be found at medium: https://medium.com/@jl4730/supervised-learning-8d73b43c856c
+
 ## 1 Linear Regression
 ### 1.1 batch_graddesc.py
 Contains Mini-Batch Gradient Descent 
