@@ -37,6 +37,9 @@ Implement ensemble method on spam identification
 ### 2.7 Learning_Curve.py
 Using learning curves to determine if a model is overfitting or underfitting
 
+### 2.8 Grid_Search.ipynb
+Using grid search to find the best model
+
 ### 2.9 Diabetes Case Study.ipynb
 Using grid search to find the best model
 
